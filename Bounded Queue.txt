@@ -1,0 +1,14 @@
+OUTPUT
+
+Bounded Queue
+
+Queue is full
+Front element: 10
+Dequeue: 10
+Dequeue: 20
+Front element after dequeue: 30
+Dequeue: 30
+Dequeue: 40
+Dequeue: 50
+Dequeue: 60
+Dequeue: 70
